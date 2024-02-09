@@ -1,4 +1,4 @@
-an interactive dashboard that uses Power BI to track and analyze Call Center company data in the USA.
+Call Center anlaysis interactive dashboard that uses Power BI to track and analyze Call Center company data in the USA.
 The issue statement for this dashboard outlines the requirements for two KPIs Call response time, average call duration, total calls made, total calls in hours, and total calls in minutes make up the primary KPI. Here, I've developed new measures using the DAX function to meet the aforementioned KPI requirements
 Secondary KPI: To determine parameters like total calls by day, total calls by state, total calls by reason, total calls by channel, total calls by sentiment, and total calls by call centers, use column charts, tree maps, fill maps, bar charts, and donut charts. 📉 
 Data modeling: To extract the Date and Day name from the Time Stamp date in the primary data, a new table called Calendar was created. Then, Date and Time Stamp columns were used to combine the two tables. 
